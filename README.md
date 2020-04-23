@@ -2,8 +2,11 @@
 
 Project for CPSC-386 Intro to Game Design at CSUF
 
+
 Group Members:
+
 Tracy Tonnu
+
 Matthew Busch
 
 
